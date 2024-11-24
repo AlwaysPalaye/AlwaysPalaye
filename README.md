@@ -90,8 +90,8 @@ Aqui estão as principais tecnologias que utilizo:
 
 ## 🎯 Hobbies
 
-- ☕ **Apaixonado por café** e sempre em busca de novos desafios no mundo da programação.
-- 🎮 **Entusiasta de jogos** nas horas vagas.
+- ☕ **Gosto de tomar café** e sempre estou em busca de novos desafios no mundo da programação.
+- 🎮 **Adoro jogar com minha namorada**, além de curtir uma boa série ou filme de super-heróis.
 - 📚 **Sempre aprendendo** novas tecnologias e metodologias.
 
 ---

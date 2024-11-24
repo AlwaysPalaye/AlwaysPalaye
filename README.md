@@ -51,8 +51,9 @@ Aqui estão algumas das principais ferramentas e tecnologias que uso no meu dia 
 - **Stripe** para processamento de pagamentos
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/auth0/auth0-original.svg" alt="NextAuth.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" alt="Stripe" width="50" height="50"/>
+  <!-- Usando ícones do FontAwesome -->
+  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextAuth.js" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Stripe-008C94?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" width="50" height="50"/>
 </div><br>
 
 ### **Ferramentas de Desenvolvimento**
@@ -68,7 +69,8 @@ Aqui estão algumas das principais ferramentas e tecnologias que uso no meu dia 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" alt="Prettier" width="50" height="50"/>
+  <!-- Prettier não possui um ícone direto de CDN, então usamos um badge -->
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" alt="Prettier" width="50" height="50"/>
 </div><br>
 
 ---

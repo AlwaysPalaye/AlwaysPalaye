@@ -23,7 +23,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" width="50" height="50"/>
 </div>
 
 - **Node.js** como runtime
@@ -38,17 +37,15 @@
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=tailwindcss" alt="TailwindCSS" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=chakraui" alt="Chakra UI" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=framer" alt="Framer Motion" width="50" height="50"/>
 </div>
 
 - **Next.js 13** (Framework React)
 - **React 18** com **TypeScript**
 - **TailwindCSS** para estilização
-- **Chakra UI** como biblioteca de componentes
-- **Framer Motion** para animações
-- **Zustand** para gerenciamento de estado
-- **SWR** para data fetching
+- **Chakra UI** como biblioteca de componentes (não possui ícone no skillicons.dev)
+- **Framer Motion** para animações (não possui ícone no skillicons.dev)
+- **Zustand** para gerenciamento de estado (não possui ícone no skillicons.dev)
+- **SWR** para data fetching (não possui ícone no skillicons.dev)
 
 ### **Autenticação e Pagamentos**
 <div>
@@ -67,13 +64,12 @@
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=eslint" alt="ESLint" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=prettier" alt="Prettier" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=npm" alt="Nodemon" width="50" height="50"/>
 </div>
 
 - **TypeScript** para tipagem estática
 - **Prettier** para formatação de código
 - **ESLint** para linting
-- **Nodemon** para desenvolvimento com hot-reload
+- **Nodemon** para desenvolvimento com hot-reload (não possui ícone no skillicons.dev)
 
 ### **Infraestrutura**
 <div>

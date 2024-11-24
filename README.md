@@ -1,30 +1,20 @@
 <h1 align="center">👋 Olá, eu sou Willian Marques</h1>
 
 <p align="center">
-  💻 Desenvolvedor Web | 🌍 Apaixonado por Tecnologia e Marketing
+  💻 Desenvolvedor Web | 🌍 Apaixonado por Tecnologia, Marketing e Desafios Criativos
 </p><br>
 
 ---
 
-## 🚀 Linguagens de Programação
+## 🚀 Sobre Mim
 
-Sou um desenvolvedor versátil, com experiência em diversas linguagens de programação. Aqui estão algumas das que mais utilizo:
-
-- **JavaScript**
-- **TypeScript**
-- **Lua**
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="50" height="50"/>
-</div><br>
+Sou desenvolvedor apaixonado por **tecnologia**, mas também sou fã de **marketing** e como ele pode transformar ideias em algo grande. Gosto de sempre integrar esses dois mundos para criar experiências únicas, seja através de **websites**, **bots interativos**, ou plataformas que unem a **engenharia** com a **estratégia**. Em meu tempo livre, me apaixono por um bom café e adoro explorar novos desafios.
 
 ---
 
 ## 🛠️ Ferramentas e Tecnologias
 
-Aqui estão algumas das ferramentas e tecnologias que utilizo para construir minhas aplicações:
+Aqui estão algumas das principais ferramentas e tecnologias que uso no meu dia a dia:
 
 ### **Backend/Bot**
 
@@ -81,21 +71,11 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo para construir min
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" alt="Prettier" width="50" height="50"/>
 </div><br>
 
-### **Infraestrutura**
-
-- **MongoDB** como banco de dados
-- **Dotenv** para gerenciamento de variáveis de ambiente
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotenv/dotenv-original.svg" alt="Dotenv" width="50" height="50"/>
-</div><br>
-
 ---
 
 ## 📫 Contato
 
-Você pode me encontrar nas seguintes plataformas:
+Conecte-se comigo nas plataformas abaixo:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marqueswillian/" target="_blank">
@@ -105,16 +85,30 @@ Você pode me encontrar nas seguintes plataformas:
 
 ---
 
-## 🎯 Hobbies
+## 💼 GitHub Stats
 
-- ☕ Adoro **café** e bons desafios de programação.
-- 🎮 No meu tempo livre, gosto de jogar e relaxar.
+Aqui está um resumo do meu perfil de trabalho e aprendizado:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwaysPalaye&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs)
+
+### 📊 Linguagens mais usadas:
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysPalaye&layout=compact&langs_count=8&theme=radical)
+
+### 🧑‍💻 Minha experiência:
+
+Com base nas minhas contribuições e projetos:
+
+- **Frontend**: 65%
+- **Backend**: 25%
+- **Design & UI/UX**: 10%
 
 ---
 
-## 💼 GitHub Stats
+## 🎯 Hobbies
 
-![Willian Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwaysPalaye&show_icons=true&theme=radical&hide_title=true)
+- ☕ Adoro **café** e sempre estou buscando novos desafios de programação.
+- 🎮 Quando não estou codificando, gosto de jogar e relaxar com amigos.
 
 ---
 

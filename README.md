@@ -1,95 +1,102 @@
-<h1 align="center">
-  👋 Bem-vindo ao perfil de <b>Willian Marques</b>
-</h1>
+<h1 align="center">👋 Olá, eu sou Willian Marques</h1>
 
 <p align="center">
   💻 Desenvolvedor Web | 🌍 Apaixonado por Tecnologia e Marketing
-</p>
+</p><br><br>
 
 ---
 
-## 🎮 Sobre Mim
+## 🚀 Linguagens de Programação
+<div>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="50" height="50"/>
+</div><br>
 
-<p align="center">
-  Olá! Sou Willian, um desenvolvedor web experiente e apaixonado por criar soluções criativas e eficientes. 
-  Quando não estou programando, estou jogando, explorando cafeterias ou pensando no próximo desafio!
-</p>
+---
 
-<div align="center">
-  <img src="https://imgur.com/gallery/profile-WDlIqAR" alt="Imagem Temática" width="600">
+## 🛠️ Ferramentas e Tecnologias
+
+### **Backend/Bot**
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" width="50" height="50"/>
 </div>
 
----
+- **Node.js** como runtime
+- **Discord.js v14** para integração com o Discord
+- **MongoDB** e **Mongoose** para banco de dados
+- **Winston** para logging
+- **Node-cron** para tarefas agendadas
+- **Socket.IO** para comunicação em tempo real
 
-## 🚀 Minhas Habilidades
+### **Frontend/Website**
+<div>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="TailwindCSS" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=chakraui" alt="Chakra UI" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=framer" alt="Framer Motion" width="50" height="50"/>
+</div>
 
-### **🔹 Linguagens de Programação**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50">
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50">
-  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" height="50">
-</p>
+- **Next.js 13** (Framework React)
+- **React 18** com **TypeScript**
+- **TailwindCSS** para estilização
+- **Chakra UI** como biblioteca de componentes
+- **Framer Motion** para animações
+- **Zustand** para gerenciamento de estado
+- **SWR** para data fetching
 
-### **🔹 Ferramentas Backend/Bot**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50">
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" height="50">
-  <img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" height="50">
-</p>
+### **Autenticação e Pagamentos**
+<div>
+  <img src="https://skillicons.dev/icons?i=auth0" alt="NextAuth.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=stripe" alt="Stripe" width="50" height="50"/>
+</div>
 
-### **🔹 Ferramentas Frontend/Website**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" alt="React.js" height="50">
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="50">
-  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="TailwindCSS" height="50">
-  <img src="https://skillicons.dev/icons?i=chakraui" alt="Chakra UI" height="50">
-  <img src="https://skillicons.dev/icons?i=framer" alt="Framer Motion" height="50">
-</p>
+- **NextAuth.js** para autenticação
+- **Stripe** para processamento de pagamentos
 
-### **🔹 Desenvolvimento e Infraestrutura**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="50">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="50">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50">
-  <img src="https://skillicons.dev/icons?i=eslint" alt="ESLint" height="50">
-  <img src="https://skillicons.dev/icons?i=prettier" alt="Prettier" height="50">
-  <img src="https://skillicons.dev/icons?i=npm" alt="NPM" height="50">
-  <img src="https://skillicons.dev/icons?i=dotenv" alt="Dotenv" height="50">
-</p>
+### **Ferramentas de Desenvolvimento**
+<div>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=eslint" alt="ESLint" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=prettier" alt="Prettier" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=npm" alt="Nodemon" width="50" height="50"/>
+</div>
 
----
+- **TypeScript** para tipagem estática
+- **Prettier** para formatação de código
+- **ESLint** para linting
+- **Nodemon** para desenvolvimento com hot-reload
 
-## 📈 GitHub Stats
+### **Infraestrutura**
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=dotenv" alt="Dotenv" width="50" height="50"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlwaysPalaye&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlwaysPalaye&theme=radical" alt="Streak Stats" width="48%">
-</p>
+- **MongoDB** como banco de dados
+- **Dotenv** para gerenciamento de variáveis de ambiente
 
 ---
 
 ## 📫 Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marqueswillian/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marqueswillian/)](https://www.linkedin.com/in/marqueswillian/)<br><br>
+
+![Willian Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwaysPalaye&show_icons=true&theme=radical)
 
 ---
 
 ## 🎯 Hobbies
 
-<p align="center">
-  ☕ Adoro **café** e desafios de programação. <br>
-  🎮 Gosto de relaxar com bons jogos no meu tempo livre.
-</p>
+- ☕ Adoro **café** e bons desafios de programação.
+- 🎮 No meu tempo livre, gosto de jogar e relaxar.
 
-<p align="center">
-  <img src="https://i.imgur.com/YOUR_IMAGE_ID.png" alt="Imagem Temática de Hobbies" width="600">
-</p>
-
----
-
-## 🖤 "Seja bem-vindo(a) ao meu universo de códigos, desafios e criatividade!"
+Sinta-se à vontade para explorar meus projetos e colaborar! <br><br>

@@ -14,7 +14,7 @@ Sou desenvolvedor apaixonado por **tecnologia**, mas também sou fã de **market
 
 ## 🛠️ Stack Atual
 
-Aqui estão as principais tecnologias que utilizo neste projeto:
+Aqui estão as principais tecnologias que utilizo:
 
 ### **Frontend**
 
@@ -82,15 +82,9 @@ Aqui estão as principais tecnologias que utilizo neste projeto:
 
 ### 📉 Análise de Habilidades
 
-Com base nas tecnologias mencionadas no meu **README**, aqui está uma estimativa de quanto utilizo cada área:
-
 - **Frontend** (React, Next.js, TailwindCSS, TypeScript, JavaScript): 60%
 - **Backend** (Node.js, Express, MongoDB, Firebase): 30%
 - **Design e Ferramentas** (Material UI, Radix UI, Framer Motion, ESLint, Vite): 10%
-
-Essa distribuição pode variar dependendo do projeto, mas é uma boa forma de visualizar onde eu gasto mais tempo.
-
-![Habilidades Distribuídas](https://raw.githubusercontent.com/AlwaysPalaye/AlwaysPalaye/master/assets/skills-chart.svg)
 
 ---
 

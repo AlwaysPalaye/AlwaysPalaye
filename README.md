@@ -7,14 +7,24 @@
 ---
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,lua)](https://skillicons.dev)<br><br>
+<div>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="50" height="50"/>
+</div><br>
 
 ---
 
 ## 🛠️ Ferramentas e Tecnologias
 
 ### **Backend/Bot**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,express)](https://skillicons.dev)
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" width="50" height="50"/>
+</div>
 
 - **Node.js** como runtime
 - **Discord.js v14** para integração com o Discord
@@ -24,7 +34,13 @@
 - **Socket.IO** para comunicação em tempo real
 
 ### **Frontend/Website**
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwindcss)](https://skillicons.dev)
+<div>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="TailwindCSS" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=chakraui" alt="Chakra UI" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=framer" alt="Framer Motion" width="50" height="50"/>
+</div>
 
 - **Next.js 13** (Framework React)
 - **React 18** com **TypeScript**
@@ -35,13 +51,24 @@
 - **SWR** para data fetching
 
 ### **Autenticação e Pagamentos**
-[![My Skills](https://skillicons.dev/icons?i=stripe)](https://skillicons.dev)
+<div>
+  <img src="https://skillicons.dev/icons?i=auth0" alt="NextAuth.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=stripe" alt="Stripe" width="50" height="50"/>
+</div>
 
 - **NextAuth.js** para autenticação
 - **Stripe** para processamento de pagamentos
 
 ### **Ferramentas de Desenvolvimento**
-[![My Skills](https://skillicons.dev/icons?i=typescript,vscode,git,github)](https://skillicons.dev)
+<div>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=eslint" alt="ESLint" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=prettier" alt="Prettier" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=npm" alt="Nodemon" width="50" height="50"/>
+</div>
 
 - **TypeScript** para tipagem estática
 - **Prettier** para formatação de código
@@ -49,7 +76,10 @@
 - **Nodemon** para desenvolvimento com hot-reload
 
 ### **Infraestrutura**
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=dotenv" alt="Dotenv" width="50" height="50"/>
+</div>
 
 - **MongoDB** como banco de dados
 - **Dotenv** para gerenciamento de variáveis de ambiente
@@ -58,7 +88,7 @@
 
 ## 📫 Contato
 
-[![Linktree Badge](https://img.shields.io/badge/-Linktree-39E09B?style=flat-square&logo=Linktree&logoColor=white&link=https://linktr.ee/seu-usuario)](https://linktr.ee/frontmidie)<br><br>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marqueswillian/)](https://www.linkedin.com/in/marqueswillian/)<br><br>
 
 ![Willian Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwaysPalaye&show_icons=true&theme=radical)
 

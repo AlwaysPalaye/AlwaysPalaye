@@ -25,27 +25,33 @@ Aqui estão as principais tecnologias que utilizo neste projeto:
 - **Framer Motion** para animações
 - **Material UI** para interface
 - **React Hook Form** para gerenciamento de formulários
+- **JavaScript** para funcionalidades dinâmicas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 </div>
 
 ### **Backend e Serviços**
 
+- **Node.js** e **Express** para desenvolvimento de APIs
+- **MongoDB** para banco de dados
 - **Firebase** para backend
   - Authentication
   - Firestore
   - Storage
 - **Uploadthing** para upload de arquivos
-- **Node.js** e **Express** para desenvolvimento de APIs
+- **Lua** para scripts customizados em alguns projetos
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="50" height="50"/>
 </div>
 
 ### **Ferramentas de Desenvolvimento**
@@ -66,17 +72,25 @@ Aqui estão as principais tecnologias que utilizo neste projeto:
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwaysPalaye&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs)
+### 🚀 GitHub Overview
 
-### 📊 Linguagens mais usadas:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwaysPalaye&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs)
+
+### 📊 Linguagens Mais Usadas
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysPalaye&layout=compact&langs_count=8&theme=radical)
 
-### 📉 Análise de Habilidades:
+### 📉 Análise de Habilidades
 
-Aqui está a distribuição das minhas habilidades, divididas entre **Frontend**, **Backend** e **Design**.
+Com base nas tecnologias mencionadas no meu **README**, aqui está uma estimativa de quanto utilizo cada área:
 
-![Frontend vs Backend](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysPalaye&layout=compact&langs_count=5&theme=radical)
+- **Frontend** (React, Next.js, TailwindCSS, TypeScript, JavaScript): 60%
+- **Backend** (Node.js, Express, MongoDB, Firebase): 30%
+- **Design e Ferramentas** (Material UI, Radix UI, Framer Motion, ESLint, Vite): 10%
+
+Essa distribuição pode variar dependendo do projeto, mas é uma boa forma de visualizar onde eu gasto mais tempo.
+
+![Habilidades Distribuídas](https://raw.githubusercontent.com/AlwaysPalaye/AlwaysPalaye/master/assets/skills-chart.svg)
 
 ---
 

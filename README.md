@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/dc096bac-7524-4199-b194-24abf85284c5)" alt="Imagem Temática" width="600">
+  <img src="https://imgur.com/gallery/profile-WDlIqAR" alt="Imagem Temática" width="600">
 </div>
 
 ---

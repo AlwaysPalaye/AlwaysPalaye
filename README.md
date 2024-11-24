@@ -7,10 +7,10 @@
 ---
 
 ## 🚀 Linguagens de Programação
-<div>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="50" height="50"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
 </div><br>
 
 ---
@@ -18,12 +18,12 @@
 ## 🛠️ Ferramentas e Tecnologias
 
 ### **Backend/Bot**
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" width="50" height="50"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" />
+  <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" />
 </div>
 
 - **Node.js** como runtime
@@ -34,12 +34,12 @@
 - **Socket.IO** para comunicação em tempo real
 
 ### **Frontend/Website**
-<div>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="TailwindCSS" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=chakraui" alt="Chakra UI" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=framer" alt="Framer Motion" width="50" height="50"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=chakraui" alt="Chakra UI" />
+  <img src="https://skillicons.dev/icons?i=framer" alt="Framer Motion" />
 </div>
 
 - **Next.js 13** (Framework React)
@@ -51,23 +51,23 @@
 - **SWR** para data fetching
 
 ### **Autenticação e Pagamentos**
-<div>
-  <img src="https://skillicons.dev/icons?i=auth0" alt="NextAuth.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=stripe" alt="Stripe" width="50" height="50"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=auth0" alt="NextAuth.js" />
+  <img src="https://skillicons.dev/icons?i=stripe" alt="Stripe" />
 </div>
 
 - **NextAuth.js** para autenticação
 - **Stripe** para processamento de pagamentos
 
 ### **Ferramentas de Desenvolvimento**
-<div>
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=eslint" alt="ESLint" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=prettier" alt="Prettier" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=npm" alt="Nodemon" width="50" height="50"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=eslint" alt="ESLint" />
+  <img src="https://skillicons.dev/icons?i=prettier" alt="Prettier" />
+  <img src="https://skillicons.dev/icons?i=npm" alt="Nodemon" />
 </div>
 
 - **TypeScript** para tipagem estática
@@ -76,9 +76,9 @@
 - **Nodemon** para desenvolvimento com hot-reload
 
 ### **Infraestrutura**
-<div>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=dotenv" alt="Dotenv" width="50" height="50"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=dotenv" alt="Dotenv" />
 </div>
 
 - **MongoDB** como banco de dados

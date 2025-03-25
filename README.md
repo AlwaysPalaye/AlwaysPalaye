@@ -6,9 +6,9 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-Sou desenvolvedor apaixonado por **tecnologia**, mas também sou fã de **marketing** e como ele pode transformar ideias em algo grande. Gosto de sempre integrar esses dois mundos para criar experiências únicas, seja através de **websites**, **aplicações interativas**, ou plataformas que unem a **engenharia** com a **estratégia**. Em meu tempo livre, me apaixono por um bom café e adoro explorar novos desafios.
+Sou CEO da Frontmidie e desenvolvedor da MyUnityChat, uma plataforma inovadora de moderação e gerenciamento de chats para streamers e moderadores. Apaixonado por tecnologia, também me interesso por marketing e como ele pode transformar ideias em algo grandioso. Sempre busco integrar esses dois mundos para criar experiências únicas, seja através de websites, aplicações interativas ou plataformas que unem engenharia e estratégia.
 
 ---
 

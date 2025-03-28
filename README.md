@@ -1,14 +1,8 @@
 # 👋 Olá, eu sou Willian Marques
 
-<p align="center">
-  💻 Desenvolvedor Web | 🌍 Apaixonado por Tecnologia, Marketing e Desafios Criativos
-</p>
-
----
-
 ## Sobre Mim
 
-Sou CEO da Frontmidie e desenvolvedor da MyUnityChat, uma plataforma inovadora de moderação e gerenciamento de chats para streamers e moderadores. Apaixonado por tecnologia, também me interesso por marketing e como ele pode transformar ideias em algo grandioso. Sempre busco integrar esses dois mundos para criar experiências únicas, seja através de websites, aplicações interativas ou plataformas que unem engenharia e estratégia.
+Sou Fundador da Agência digital Frontmidie e desenvolvedor da MyUnityChat. Amo tecnologia e marketing, e adoro transformar ideias em soluções criativas. Meu objetivo é criar experiências que realmente façam a diferença para as pessoas. 😊
 
 ---
 
@@ -85,14 +79,6 @@ Aqui estão as principais tecnologias que utilizo:
 - **Frontend** (React, Next.js, TailwindCSS, TypeScript, JavaScript): 60%
 - **Backend** (Node.js, Express, MongoDB, Firebase): 30%
 - **Design e Ferramentas** (Material UI, Radix UI, Framer Motion, ESLint, Vite): 10%
-
----
-
-## 🎯 Hobbies
-
-- ☕ **Gosto de tomar café** e sempre estou em busca de novos desafios no mundo da programação.
-- 🎮 **Adoro jogar com minha namorada**, além de curtir uma boa série ou filme de super-heróis.
-- 📚 **Sempre aprendendo** novas tecnologias e metodologias.
 
 ---
 

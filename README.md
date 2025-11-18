@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou **Willian Marques**
+# Olá, eu sou **Willian Marques**
 
 ## 🧑‍💼 Chief Technology Officer da Cilic  
 Especialista em desenvolvimento de soluções web, automações avançadas e agentes inteligentes para empresas.  

@@ -2,7 +2,7 @@
 
 ## 🧑‍💼 Chief Technology Officer da Cilic  
 Especialista em desenvolvimento de soluções web, automações avançadas e agentes inteligentes para empresas.  
-Lidero arquitetura e implementação de produtos digitais eficientes, escaláveis e orientados à performance — incluindo meu projeto pessoal **MyUnity.chat**, plataforma voltada à automação conversacional e IA aplicada.
+Lidero arquitetura e implementação de produtos digitais eficientes, escaláveis e orientados à performance, incluindo meu projeto pessoal **MyUnity.chat**, plataforma voltada à automação conversacional e IA aplicada.
 
 ---
 

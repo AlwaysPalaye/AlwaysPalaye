@@ -1,41 +1,32 @@
 # Willian Marques
 
-Software Engineer focado em sistemas distribuídos, integrações entre serviços e aplicações interativas, com atuação em backend, dados e operação em produção.
+Software Engineering student focused on backend architecture, system organization, code review, and scalable web platforms.
+
+I work as an Advisor at CILIC and I am currently developing my engineering practice around reviewing, refactoring, and improving AI-generated code. My focus is to identify structural issues, improve maintainability, reduce technical debt, and help projects evolve with cleaner architecture and better long-term scalability.
+
+I am especially interested in SaaS foundations, multi-tenant systems, backend infrastructure, API design, automation, and software projects where organization matters as much as implementation.
 
 ---
 
-## Stack
+## Featured Project
 
-### Backend & Data — APIs, serviços, persistência e processamento de dados  
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,redis,mongodb" height="48" />
+### OrbitFlow
 
-### Frontend — interfaces web performáticas e aplicações orientadas a produto  
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" height="48" />
+[OrbitFlow](https://github.com/AlwaysPalaye/orbitflow) is an open-source backend-first SaaS foundation created as part of my studies and practical evolution in Software Engineering and Systems Architecture.
 
-### Game Development — aplicações interativas e desenvolvimento de jogos  
-<img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp" height="48" />
+The project was designed to help developers build SaaS products with a cleaner and safer foundation, including authentication, multi-tenancy, workspace-based authorization, audit logs, Docker infrastructure, CI, testing strategy, and documentation for AI-assisted development.
 
-### Infrastructure — containers, servidores e ambiente de execução  
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash" height="48" />
-
-### Cloud — deploy, escala e serviços gerenciados  
-<img src="https://skillicons.dev/icons?i=aws,gcp,digitalocean" height="48" />
-
-### Workflow — versionamento, CI/CD e desenvolvimento  
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vite,jest" height="48" />
+OrbitFlow also reflects how I like to work: defining architecture, documenting decisions, reviewing generated code, and using AI as an implementation assistant while keeping engineering judgment, security, tests, and scalability under human control.
 
 ---
 
-## Focus
+## Current Focus
 
-- integração entre serviços e automações orientadas a eventos  
-- processamento assíncrono e uso de cache  
-- modelagem de dados para consistência e throughput  
-- operação e manutenção de aplicações em produção  
-
-Interesse em projetos com alto volume de integração, backend estruturado e aplicações que exigem consistência sob carga.
-
-Disponível para novos projetos e oportunidades.
+- Reviewing and refactoring AI-generated code
+- Improving backend structure and project organization
+- Designing scalable SaaS foundations
+- Studying Software Engineering and Systems Architecture
+- Building projects with clean documentation, tests, and maintainable patterns
 
 ---
 
